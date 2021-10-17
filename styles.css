@@ -7,7 +7,7 @@ margin: 0;
 }
 .navbar-brand{
   font-size: 3rem;
-  font-family: 'Harry Potter', sans-serif;
+  font-family: 'Satisfy', cursive;
   padding-left: 100px;
 
 }
@@ -136,7 +136,7 @@ img {
   letter-spacing: 1px;
   text-transform: capitalize;
   margin: 0px;
-  font-family: 'Harry Potter', sans-serif;
+  font-family: 'Satisfy', cursive;
   text-align: center;
 }
 
@@ -219,7 +219,7 @@ img {
 .name{
   text-decoration: none;
   color: #8f8f8f;
-  font-family: 'Harry Potter', sans-serif;
+  font-family: 'Satisfy', cursive;
   font-weight: bold;
   font-size: 1.25rem;
 }
